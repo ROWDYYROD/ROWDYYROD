@@ -5,7 +5,7 @@ using UnityEngine;
 
 namespace RowdyRod.EditorTools.AutoSave
 {
-    public class AutoSavePreferences : EditorWindow
+    public class AutoSaveWindow : EditorWindow
     {
         private static string _saveLocation;
         private static List<string> _excludedScenes = new List<string>();
