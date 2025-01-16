@@ -7,7 +7,6 @@ This repository contains a collection of Unity tools designed to enhance and sim
 
 ## Tools
 - **Editor AutoSave**: Automatically saves your project at regular intervals to prevent data loss.
-- (Add more tools with brief descriptions as needed)
 
 ## Credit
 Some tools were inspired by others, and credit will be given where due.
