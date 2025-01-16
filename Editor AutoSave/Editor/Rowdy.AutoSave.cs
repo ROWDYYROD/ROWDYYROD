@@ -5,7 +5,7 @@ namespace RowdyRod.EditorTools.AutoSave
 {
     public class AutoSavePreferences : EditorWindow
     {
-        [PreferenceItem("Auto Save")]
+        [PreferenceItem("Auto Save (AutoSave)")]
         public static void PreferencesGUI()
         {
             // Auto-save enable/disable
