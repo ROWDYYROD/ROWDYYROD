@@ -1,26 +1,30 @@
 {
-    "name": "com.rowdyrodtools.editorautosave",
-    "version": "1.0.0",
-    "displayName": "Editor Auto Save",
-    "description": "Automatically saves your scene and project files in Unity.",
-    "unity": "2022.3.22",
-    "unityRelease": "2022.3",
-    "documentationUrl": "https://example.com/docs.html",
-    "changelogUrl": "https://example.com/CHANGELOG.html",
-    "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/ROWDYYROD/UnityEditorTools.git"
-   },
-   "keywords": [
-      "Editor",
-      "Auto Save",
-      "Tools"
-    ],
-    "author": {
-      "name": "RowdyRod",
-      "email": "therowdyrod@gmail.com",
-      "url": "https://github.com/ROWDYYROD"
-    }
+  "name": "com.rowdyrodtools.editorautosave",
+  "version": "1.0.0",
+  "displayName": "Editor Auto Save",
+  "description": "Automatically saves your scene and project files in Unity, specifically designed to work with VRChat.",
+  "unity": "2022.3.22",
+  "unityRelease": "2022.3",
+  "documentationUrl": "https://github.com/ROWDYYROD/UnityEditorTools/blob/Unity3D/Editor%20AutoSave/README.md",
+  "changelogUrl": "https://github.com/ROWDYYROD/UnityEditorTools/blob/Unity3D/Editor%20AutoSave/CHANGELOG.md",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ROWDYYROD/UnityEditorTools.git"
+  },
+  "keywords": [
+    "Editor",
+    "Auto Save",
+    "Tools",
+    "VRChat"
+  ],
+  "author": {
+    "name": "RowdyRod",
+    "email": "therowdyrod@gmail.com",
+    "url": "https://github.com/ROWDYYROD"
+  },
+  "vrchat": {
+    "compatible": true,
+    "sdkVersion": "3.2.0"
   }
-  
+}
